@@ -1,1 +1,1 @@
-web: gunicorn one_report.wsgi
+web: gunicorn shapeomatic_django_server.wsgi
