@@ -37,7 +37,7 @@ SECRET_KEY = 'x-(z7_77t(8u*0jk9n)m#y$4sottf&=7v1fnj)fk!u%p6u-4hd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '10.0.2.2']
+ALLOWED_HOSTS = ['127.0.0.1', '10.0.2.2', 'shapeomatic.herokuapp.com']
 
 
 # Application definition
