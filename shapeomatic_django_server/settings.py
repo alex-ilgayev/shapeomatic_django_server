@@ -91,10 +91,10 @@ WSGI_APPLICATION = 'shapeomatic_django_server.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'shapeomatic',
-        'USER': 'shapeomatic',
-        'PASSWORD': 'Aa123456',
-        'HOST': 'localhost',
+        'NAME': 'ddqjns4hfu159f',
+        'USER': 'cknglhatyxoljk',
+        'PASSWORD': 'b50fafcfc5d131d3c95dcc4856af4ed2bfb2314180260abf01f8d92eae642aa5',
+        'HOST': 'ec2-54-247-120-169.eu-west-1.compute.amazonaws.com',
         'PORT': '',
     }
 }
